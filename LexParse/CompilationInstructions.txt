@@ -1,0 +1,5 @@
+LINUX :
+lancer dans un terminal le script "comp.sh" situé dans le dossier "Compilation"
+
+WINDOWS :
+lancer dans un terminal le script "comp.bat" situé dans le dossier "Compilation"
